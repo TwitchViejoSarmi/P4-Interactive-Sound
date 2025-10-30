@@ -19,7 +19,7 @@ Our DJ system was designed with a specific aesthetic and functional vision in mi
 
 1. **Retro-futuristic Appeal**: Synthwave's distinctive sound perfectly combines nostalgic 80s elements with modern electronic music production techniques.
 
-2. **User Experience**: By incorporating meme sounds alongside traditional DJ elements, we created a unique and entertaining experience that balances professional functionality with playful interaction.
+2. **User Experience**: By incorporating meme sounds alongside traditional DJ elements.
 
 ## 📚 Libraries Used
 
@@ -67,13 +67,13 @@ This project requires the following Pure Data libraries:
 
 2D slider to modulate voice via oscilator and low pass filter
 
-### Page 3: Synthesizer
+### Page 3: Synth notes
 
 - gridToggle1: Activate microphone for the voice modulator in page 2
 
 - gridToggles 2 - 24: Synth notes
 
-### Page 4: Effects & Samples
+### Page 4: Sounds and more synth notes
 
 - gridButtons 1 - 4: Meme sounds filtered
 
